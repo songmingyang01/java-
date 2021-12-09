@@ -75,6 +75,6 @@ java 实验五
 ```
 # 五、系统运行截图
 &emsp;&emsp;下图是本实验程序的运行结果。
-<br>![avatar](https://github.com/songmingyang01/java-1/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C%E6%88%AA%E5%9B%BE.png)
+<br>![avatar](https://github.com/songmingyang01/java-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-12-09%20171206.png)
 # 六、感想与体会
 &emsp;&emsp;本次实验实现了古诗的添加标点和搜索单词，较为简单，巩固了课上的所学知识，同时也自主搜索到了一些新的知识学习，对自己有了较大的提高。
